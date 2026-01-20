@@ -6,7 +6,7 @@ Memory is critical for LLM-based agents to preserve previous observations for fu
 
 ## 📌 Major Contributions
 
-![methods](assets\methods.png)
+![methods](./assets/methods.png)
 
 - We introduce a simple yet effective framework for latent factual memory, with autoregressive reconstruction alignment and progressive latent substitution.
 - We integrate quantization methods into the latent memory of our framework, which reduces storage overhead while maintaining competitive performance.
